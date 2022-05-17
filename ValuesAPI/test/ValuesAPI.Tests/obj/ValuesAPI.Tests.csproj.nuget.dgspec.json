@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\test\\ValuesAPI.Tests\\ValuesAPI.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj",
+        "projectName": "ValuesAPI",
+        "projectPath": "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj",
+        "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\src\\ValuesAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\akash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.AspNetCoreServer": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\test\\ValuesAPI.Tests\\ValuesAPI.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\test\\ValuesAPI.Tests\\ValuesAPI.Tests.csproj",
+        "projectName": "ValuesAPI.Tests",
+        "projectPath": "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\test\\ValuesAPI.Tests\\ValuesAPI.Tests.csproj",
+        "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\test\\ValuesAPI.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\akash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj": {
+                "projectPath": "C:\\Users\\akash\\Desktop\\dotnetlambda\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.0.1, )"
+            },
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.TestUtilities": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

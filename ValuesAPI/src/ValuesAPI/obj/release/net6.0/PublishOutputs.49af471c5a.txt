@@ -1,0 +1,14 @@
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\ValuesAPI.exe
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\appsettings.Development.json
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\appsettings.json
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\aws-lambda-tools-defaults.json
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\ValuesAPI.dll
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\ValuesAPI.deps.json
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\ValuesAPI.runtimeconfig.json
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\ValuesAPI.pdb
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\akash\Desktop\dotnetlambda\ValuesAPI\src\ValuesAPI\bin\release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
